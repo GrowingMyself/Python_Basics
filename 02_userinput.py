@@ -1,4 +1,4 @@
-#user input prohram
+#user input program
 
 
 name=input("enter your name :")
