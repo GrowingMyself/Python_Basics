@@ -1,6 +1,5 @@
 #write code to opened file named file.txt read mode
 
-
 file= open("file.txt","r")
 data=file.read()
 print("my data in this file is:",data)
